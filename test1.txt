@@ -1,6 +1,2 @@
 I am create my first file in github
-<<<<<<< HEAD
-changesss
-=======
-to do a file
->>>>>>> 930e885f26b274d295464d33d91b8ef276f1ca97
+git add test1.txt
